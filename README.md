@@ -1,25 +1,17 @@
-### Olá! Sou Tales Mequita 😎✌️
+### Ola! Sou  Tales Mequita 😎✌️  
 
-- 🔭 Em busca do meu primeiro emprego como desenvolvedor.
-- 🌱 Estudando front-end na Alura
-- 😄 Pronouns: ele/dele
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BNYovfXkqTEaT570HAcwSHg%3D%3D)
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalesMequita&theme=gotham&show_icons=true"/>
-  <img height="180em" src=""/>
+![Tales Mequita GitHub stats](https://github-readme-stats.vercel.app/api?username=TalesMequita&theme=algolia&show_icons=true)
+
+### Tecnologia que estou usando e aprendendo com cursos e projetos. 
+
+<div style="display:inline_block"><br/>
+    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" widht"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-</div>
-
-##
-
-<div>
-    <a href = "mailto:talesmfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/tales-mequita-6948521b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 
           
